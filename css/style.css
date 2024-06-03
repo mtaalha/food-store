@@ -974,7 +974,7 @@ footer.copyright a{
 
 }
 
-@media (min-width: 576px){
+@media (max-width: 576px){
     header.hero .hero-image{
         right: -120px;
         top: 100px;
@@ -987,7 +987,7 @@ footer.copyright a{
 
 }
 
-@media (min-width: 360px){
+@media (max-width: 360px){
     header{
         margin-top: -1rem;
     }
